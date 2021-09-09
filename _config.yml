@@ -1,8 +1,8 @@
 title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+description: Yerin Hwang
+author: Yerin Hwang
+github: https://github.com/Yerin-Hwang49
+about: I'm Programmer for Deep learning & Natural language processing.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://Yerin-Hwang49.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
